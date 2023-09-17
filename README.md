@@ -2,6 +2,12 @@
   Ai Summarizer using Open AI GPT-4
 </h2>
 
+## Features
+**Modern UI Interface**
+**Integration of RTK (Redux Toolkit)**
+**Connection to OpenAI's model**
+**Browser history storage**
+
 
 ## Built With
 This project was built using these technologies.
