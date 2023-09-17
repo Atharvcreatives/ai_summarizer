@@ -3,8 +3,7 @@
 </h2>
 
 ## Features
-**![image](https://github.com/Atharvcreatives/ai_summarizer/assets/128986378/e6a93f54-df9c-4f79-95d9-f56afa526e6d)
-Modern UI Interface** <br>
+**Modern UI Interface** <br>
 
 **Integration of RTK (Redux Toolkit)** <br>
 
