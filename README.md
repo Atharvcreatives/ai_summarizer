@@ -3,13 +3,13 @@
 </h2>
 
 ## Features
-**Modern UI Interface**
+**Modern UI Interface** <br>
 
-**Integration of RTK (Redux Toolkit)**
+**Integration of RTK (Redux Toolkit)** <br>
 
-**Connection to OpenAI's model**
+**Connection to OpenAI's model** <br>
 
-**Browser history storage**
+**Browser history storage** <br>
 
 
 ## Built With
