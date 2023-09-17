@@ -4,8 +4,11 @@
 
 ## Features
 **Modern UI Interface**
+
 **Integration of RTK (Redux Toolkit)**
+
 **Connection to OpenAI's model**
+
 **Browser history storage**
 
 
